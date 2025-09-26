@@ -35,15 +35,15 @@ brokenLetters consists of distinct lowercase English letters.
 SOLUTION::
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
-        broken_set = set(brokenLetters)  # Convert broken letters to a set for O(1) lookup
+        broken_set = set(brokenLetters)  
         count = 0
         
-        # Split the text into words
+      
         words = text.split()
         
-        # Check each word if it contains any broken letter
+       
         for word in words:
-            # If none of the characters is in broken letters, count the word
+           
             if all(ch not in broken_set for ch in word):
                 count += 1
                 

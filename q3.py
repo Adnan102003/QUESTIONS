@@ -43,7 +43,7 @@ class Solution:
         vowels = set('aeiou')
         
         def devowel(word):
-            # Lowercase and replace all vowels with '*'
+            
             return ''.join('*' if c in vowels else c for c in word.lower())
 
         exact = set(wordlist)

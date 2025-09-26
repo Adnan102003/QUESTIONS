@@ -59,7 +59,7 @@ class Solution:
                 g = gcd(top, num)
                 if g == 1:
                     break
-                # Replace top and num by their LCM
+             
                 num = (top * num) // g
                 stack.pop()
             stack.append(num)
