@@ -39,7 +39,7 @@ Constraints:
 -109 <= nums[i] <= 109
 
 
-SOLUTION::
+SOLUTION:::
 class Solution {
     public int maxIncreasingSubarrays(List<Integer> nums) {
         int n = nums.size();
