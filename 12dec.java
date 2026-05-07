@@ -1,5 +1,4 @@
 You are given an integer numberOfUsers representing the total number of users and an array events of size n x 3.
-
 Each events[i] can be either of the following two types:
 
 Message Event: ["MESSAGE", "timestampi", "mentions_stringi"]
