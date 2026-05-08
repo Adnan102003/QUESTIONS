@@ -6,8 +6,6 @@ Answers within 10-5 of the actual answer will be accepted.
 
 Note: Squares may overlap. Overlapping areas should be counted only once in this version.
 
- 
-
 Example 1:
 
 Input: squares = [[0,0,1],[2,2,1]]
