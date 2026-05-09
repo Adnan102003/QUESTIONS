@@ -6,8 +6,6 @@ In each turn, when you select a child, the happiness value of all the children t
 
 Return the maximum sum of the happiness values of the selected children you can achieve by selecting k children.
 
- 
-
 Example 1:
 
 Input: happiness = [1,2,3], k = 2
