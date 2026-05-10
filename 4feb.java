@@ -7,7 +7,6 @@ nums[p...q] is strictly decreasing,
 nums[q...r] is strictly increasing.
 Return the maximum sum of any trionic subarray in nums.
 
- 
 
 Example 1:
 
