@@ -7,9 +7,6 @@ A number is valid if each digit remains a digit after rotation. For example:
 6 and 9 rotate to each other, and
 the rest of the numbers do not rotate to any other number and become invalid.
 Given an integer n, return the number of good integers in the range [1, n].
-
- 
-
 Example 1:
 
 Input: n = 10
