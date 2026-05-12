@@ -6,9 +6,6 @@ Given an array nums of even length n, pair up the elements of nums into n / 2 pa
 Each element of nums is in exactly one pair, and
 The maximum pair sum is minimized.
 Return the minimized maximum pair sum after optimally pairing up the elements.
-
- 
-
 Example 1:
 
 Input: nums = [3,5,2,3]
