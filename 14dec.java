@@ -5,9 +5,6 @@ One room divider has already been installed to the left of index 0, and another 
 Divide the corridor into non-overlapping sections, where each section has exactly two seats with any number of plants. There may be multiple ways to perform the division. Two ways are different if there is a position with a room divider installed in the first way but not in the second way.
 
 Return the number of ways to divide the corridor. Since the answer may be very large, return it modulo 109 + 7. If there is no way, return 0.
-
- 
-
 Example 1:
 
 
