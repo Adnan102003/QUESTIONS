@@ -6,8 +6,6 @@ Divide the corridor into non-overlapping sections, where each section has exactl
 
 Return the number of ways to divide the corridor. Since the answer may be very large, return it modulo 109 + 7. If there is no way, return 0.
 Example 1:
-
-
 Input: corridor = "SSPPSPS"
 Output: 3
 Explanation: There are 3 different ways to divide the corridor.
