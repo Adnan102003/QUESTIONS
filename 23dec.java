@@ -2,7 +2,8 @@ In the village of Arcadia, there was a renowned gardener named Elysia, famous fo
 However, Elysia noticed that adventurers often used unnecessary movements—backtracking or alternating left and right repeatedly—which slowed them down. Elysia wanted to help them make their journey smoother by removing redundant instructions while ensuring they still reached the centre of the maze.
 One day, a group of adventurers starts at (0,0) of the maze with a string of instructions describing their movements. Elysia challenged them to find the maximum number of steps they could delete while still reaching the center of the maze.
 The adventurers analyzed their steps carefully, removing every unnecessary move, and learned the art of navigating the maze efficiently with minimal instructions, all while reaching the same final destination. The Path of Harmony became even more popular as adventurers mastered this skill.
-Input Format
+
+          Input Format
 The first line of input contains two space separted integers N and M, representing the dimension of the maze.
 The second line of input contains a string S, represeting the instruction of the movement.
 Output Format
