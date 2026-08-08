@@ -1,5 +1,4 @@
 class Solution {
-
     public int[] validSequence(String word1, String word2) {
         int n = word1.length(),
             m = word2.length();
