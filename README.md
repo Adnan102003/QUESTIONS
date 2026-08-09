@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adnan102003/QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adnan102003/QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adnan102003/QUESTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Adnan102003/QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Adnan102003/QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adnan102003/QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adnan102003/QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adnan102003/QUESTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Adnan102003/QUESTIONS/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Adnan102003/QUESTIONS/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Adnan102003/QUESTIONS/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Adnan102003/QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adnan102003/QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Adnan102003/QUESTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adnan102003/QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adnan102003/QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adnan102003/QUESTIONS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Adnan102003/QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
@@ -226,14 +230,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adnan102003/QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adnan102003/QUESTIONS/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adnan102003/QUESTIONS/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adnan102003/QUESTIONS/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Adnan102003/QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Adnan102003/QUESTIONS/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
