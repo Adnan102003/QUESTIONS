@@ -1,4 +1,5 @@
 class Solution {
+
     public boolean stoneGame(int[] piles) {
         int N = piles.length;
         int[][] dp = new int[N+2][N+2];
